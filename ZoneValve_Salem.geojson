@@ -1,0 +1,4 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [{"type":"Feature","id":0,"geometry":{"type":"Point","coordinates":[-111.66359498095518,40.039626645636751]},"properties":{"FID":0,"Id":0,"ELEVATION":4817.9859999999999,"UTILITY":"PI ZONE VALVE","NORTHING":7183197.4699999997,"EASTING":1594617.52,"CWID":"0"}}]
+}
